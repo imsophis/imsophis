@@ -23,7 +23,7 @@
   <li style="color: #555;">📚 tratando de romanzitar esto.</li>
 </ul>
 
-<b>&copy; 2024 Todos los Derechos : Mi</b>
+<b>&copy; 2024 Todos los Derechos : Mi</b><br>
 <b>&reg;</b>
 
 <!-- Social Media Links -->
