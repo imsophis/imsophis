@@ -24,6 +24,7 @@
 </ul>
 
 <b>&copy; 2024 Todos los Derechos : Mi</b>
+<b>&reg;</b>
 
 <!-- Social Media Links -->
 *Personal Website*
