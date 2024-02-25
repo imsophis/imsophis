@@ -1,7 +1,7 @@
-<!-- Header -->
+<!-- Header 
 <p align="center">
     <img src="LINK A TU IMAGEN" alt="Profile Picture" width="230" height="250">
-</p>
+</p> -->
 <!-- Name and Introduction -->
 <h1 align="center";>sophis</h1>
 <p align="center" style="color: #555; font-size: 18px;">Programadora en proceso.</p>
