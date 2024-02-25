@@ -3,7 +3,7 @@
     <img src="LINK A TU IMAGEN" alt="Profile Picture" width="230" height="250">
 </p>
 <!-- Name and Introduction -->
-<h1 align="center";>hola soy sopi</h1>
+<h1 align="center";>sophis</h1>
 <p align="center" style="color: #555; font-size: 18px;">pues aki.</p>
 <!-- Social Media Links -->
 <p align="center">
