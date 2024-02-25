@@ -4,20 +4,20 @@
 </p>
 <!-- Name and Introduction -->
 <h1 align="center";>sophis</h1>
-<p align="center" style="color: #555; font-size: 18px;">pues aki.</p>
+<p align="center" style="color: #555; font-size: 18px;">Programadora en proceso.</p>
 <!-- Social Media Links -->
 <p align="center">
     <a href="https://www.instagram.com/fxr_.jt/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
-<!-- About Me -->
+<!-- About Me
 <ul>
   <li style="color: #555;">👩‍💻 aki programando.</li>
   <li style="color: #555;">🌱 pura naturaleza.</li>
   <li style="color: #555;">📚 tratando de romanzitar esto.</li>
 </ul>
 <b>&copy; 2024 Todos los Derechos : Mi</b><br>
-<b>&reg;</b>
+<b>&reg;</b> -->
 <!-- Social Media Links -->
-*Personal Website*
+Sitio Web Personal.
