@@ -7,9 +7,9 @@
 <p align="center" style="color: #555; font-size: 18px;">Programadora en proceso.</p>
 <!-- Social Media Links -->
 <p align="center">
-    <a href="https://www.instagram.com/sophis.mz">
+    <!-- <a href="https://www.instagram.com/sophis.mz">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
+    </a> -->
 </p>
 <!-- About Me
 <ul>
