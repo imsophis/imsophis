@@ -1,26 +1,24 @@
-<!-- Header 
-<p align="center">
-    <img src="LINK A TU IMAGEN" alt="Profile Picture" width="230" height="250">
-</p> -->
+<!-- First -->
+<h2>hooola!</h2>
 
-<!-- Name and Introduction -->
-<h1 align="center";>technologies</h1>
-<p align="center">
-    
-</p>
-<!-- Social Media Links
-<p align="center">
-    <a href="https://www.instagram.com/sophis.mz">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a> 
-</p> -->
-<!-- About Me
-<ul>
-  <li style="color: #555;">👩‍💻 aki programando.</li>
-  <li style="color: #555;">🌱 pura naturaleza.</li>
-  <li style="color: #555;">📚 tratando de romanzitar esto.</li>
-</ul>
-<b>&copy; 2024 Todos los Derechos : Mi</b><br>
-<b>&reg;</b> -->
-<!-- Social Media Links -->
-<!-- Sitio Web Personal. -->
+### Technologies
+<div>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
+</div>
+
+### Learning
+<div>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></img>
+</div>
+
+### Others
+<div>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></img>
+</div>
