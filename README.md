@@ -5,12 +5,15 @@
 
 <!-- Name and Introduction -->
 <h1 align="center";>technologies</h1>
-<!-- Social Media Links -->
+<p align="center">
+    
+</p>
+<!-- Social Media Links
 <p align="center">
     <a href="https://www.instagram.com/sophis.mz">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a> 
-</p>
+</p> -->
 <!-- About Me
 <ul>
   <li style="color: #555;">👩‍💻 aki programando.</li>
