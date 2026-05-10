@@ -2,14 +2,14 @@
 <p align="center">
     <img src="LINK A TU IMAGEN" alt="Profile Picture" width="230" height="250">
 </p> -->
+
 <!-- Name and Introduction -->
-<h1 align="center";>sophis</h1>
-<p align="center" style="color: #555; font-size: 18px;">Programadora en proceso.</p>
+<h1 align="center";>technologies</h1>
 <!-- Social Media Links -->
 <p align="center">
-    <!-- <a href="https://www.instagram.com/sophis.mz">
+    <a href="https://www.instagram.com/sophis.mz">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a> -->
+    </a> 
 </p>
 <!-- About Me
 <ul>
